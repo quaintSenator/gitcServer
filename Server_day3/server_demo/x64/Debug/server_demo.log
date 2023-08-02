@@ -1,0 +1,5 @@
+﻿  player.cpp
+D:\realRepo\Server\Server_day3\server_demo\player\player.h(31,2): warning C4091: “extern ”: 没有声明变量时忽略“Player”的左侧
+D:\realRepo\Server\Server_day3\server_demo\player\player.cpp(275,8): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\realRepo\Server\Server_day3\server_demo\player\player.cpp(327,73): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  server_demo.vcxproj -> D:\realRepo\Server\Server_day3\product\Debug\server_demod.exe
